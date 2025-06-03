@@ -26,12 +26,12 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-farhan-ullah-258a81319/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/923001234567" target="_blank">
+  <a href="https://wa.me/923149151771" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 
